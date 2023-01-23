@@ -2,11 +2,12 @@ const siteMetadata = {
   title: "fauziabd's snippets",
   author: 'Fauziabd',
   headerTitle: '<fauziabd snippets />',
-  description: 'A micro-blog developed by fauziabd',
+  description:
+    'Micro blog for learning and discovering the world of software engineering with a chunk of code',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://fauziabd-snippets.vercel.app',
+  siteRepo: 'https://github.com/nooglersoon/snippets',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',

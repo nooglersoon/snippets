@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
+name: Fauziabd
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: iOS Engineer
+company: Bandung Institute of Technology • Apple Developer Academy
+email: nooglersoon@outlook.co.id
+twitter: https://twitter.com/fauziabd
+linkedin: https://www.linkedin.com/fauziabd
+github: https://github.com/nooglersoon
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Junior software developer with expertise in developing iOS applications using Apple's latest frameworks and its Human Interface Guideline (HIG) and has good knowledge of product research and development.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Experience as a research analyst in spatially related problems using advanced spatial analysis methods. Detail-oriented problem solver who can learn new concepts quickly, work well under pressure, and communicate ideas clearly and effectively, excellent organizational and time management skills.

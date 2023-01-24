@@ -26,3 +26,10 @@ Tujuan dari penggunaan tipe data ini agar developer dapat memastikan penggunaan 
 | UInt32  | 0                    | 4294967295           | 4            |
 | Int64   | -9223372036854775808 | 9223372036854775807  | 8            |
 | UInt164 | 0                    | 18446766073709551615 | 8            |
+
+Selain tipe data _**Integer**_, tipe data lain yang sering digunakan untuk menghandle angka pecahan adalah tipe data _**Double**_. Meskipun saat ini perangkat yang digunakan sudah bisa mengoptimalisasikan tipe data _**Double**_ untuk melakukan kalkulasi, namun swift menyediakan tipe data alternatif, yaitu _**Float**_ yang fungsi nya sama seperti _**Double**_. Perbedaan nya hanya terdapat pada jangkauan nilai dan penggunaan memori yang lebih kecil daripada tipe data _**Double**_.
+
+| Type   | Minimum Value | Maximum Value | Storage Size |
+| ------ | ------------- | ------------- | ------------ |
+| Float  | 1.175494E-38  | 3.402823E+38  | 4            |
+| Double | 2.225073E-308 | 1.797693E+308 | 8            |

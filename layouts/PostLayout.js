@@ -95,6 +95,15 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                 <Link href={editUrl(fileName)}>{'View on GitHub'}</Link>
               </div>
               {/* <Comments frontMatter={frontMatter} /> */}
+              <div className="font-regular pt-6 pb-6 text-sm text-gray-700 dark:text-gray-300">
+                <p className="py-2">
+                  Happy hacking {'</>'}! Don't forget to rest well 🛌 and drink enough water 🛁
+                </p>
+                <p className="py-2">
+                  Hello, I'm fauzi, a self-taught developer 💻 interested in Software Developer 🖥 ,
+                  Product Design 🎨, and Location Intelligence 📍
+                </p>
+              </div>
             </div>
             <footer>
               <div className="divide-gray-200 text-sm font-medium leading-5 dark:divide-gray-700 xl:col-start-1 xl:row-start-2 xl:divide-y">

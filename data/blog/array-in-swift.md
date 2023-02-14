@@ -1,9 +1,9 @@
 ---
-title: Arrays, Dictionaries and Sets in Swift
+title: Introduction of Array in Swift
 date: '2023-01-26'
 tags: ['foundation', 'swift']
-draft: true
-summary: 'In this article I want to share about the differences between array, dictionary, and set based on its purpose, performance and memory usage'
+draft: false
+summary: 'In this article I want to share about the introduction of array in swift with its performance and memory usage'
 ---
 
 # Apa itu collections di dalam bahasa pemrograman swift?

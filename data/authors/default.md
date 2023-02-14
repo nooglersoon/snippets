@@ -38,13 +38,13 @@ Product Management
 </tr>
 <tr>
 <td>
-Data Visualization
+Web & App Design
 </td>
 <td>
 Maps and Location Based Services  
 </td>
 <td>
-3D & Augmented Reality  
+Spatial Data Analysis & Visualization
 </td>
 </tr>
 </table>

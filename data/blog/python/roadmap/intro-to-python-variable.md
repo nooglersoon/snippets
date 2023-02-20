@@ -1,7 +1,7 @@
 ---
 title: How to write a good variable in python
 date: '2023-02-14'
-tags: ['foundation', 'python']
+tags: ['foundation', 'python', 'python roadmap']
 draft: false
 summary: 'In this article I want to share how to write a good variable in python programming languages'
 ---

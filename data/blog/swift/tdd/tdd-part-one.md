@@ -1,7 +1,7 @@
 ---
 title: Introduction to Test Driven Development Part 1
 date: '2023-02-17'
-tags: ['Unit Tests', 'swift']
+tags: ['unit tests', 'swift', 'Test Driven Development using Swift']
 draft: false
 summary: 'In this article I want to share about the introduction to TDD and its fundamental'
 ---
